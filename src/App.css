@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.dog-card {
+  /* width: 100px; */
+  height: 100px;
+  overflow: hidden;
+}
+
+.new-dog-card {
+  height: 200px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
